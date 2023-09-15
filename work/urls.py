@@ -3,5 +3,5 @@ from .views import *
 
 urlpatterns = [
     path('api/',PersonAPIview.as_view()),
-    path('details/<int:id>/',PersonDetails.as_view())
+    path('api/details/<int:id>/',PersonDetails.as_view())
 ]
