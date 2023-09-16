@@ -123,3 +123,5 @@ This documentation covers the basic functionality of the API and does not includ
 - Create and apply the database migrations using `python manage.py makemigrations` and `python manage.py migrate`.
 - Run the development server with `python manage.py runserver`.
 
+- thank you
+
