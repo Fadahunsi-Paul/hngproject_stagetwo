@@ -114,7 +114,7 @@ Endpoint: DELETE /api/{user_id}
 *The API assumes that person profiles are identified by unique numeric IDs.
 This documentation covers the basic functionality of the API and does not include advanced features like authentication and authorization as the project does not require that.*
 
-## Local Setup
+## Local Setup for all os
 
 *To set up and run the API locally:*
 
